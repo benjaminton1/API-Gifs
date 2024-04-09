@@ -5,3 +5,5 @@ With supplemental LinkedIn Learning courses, in addition to oconnecting to APIs 
 2. Filtering responses from the API using parameters
 3. Learning how to access certain parts of the data in the response
 4. And finally, embedding the response data into my HTML webpage.
+
+And because I love dogs, each time this page is refreshed, there is a new dog-related gif everytime!
