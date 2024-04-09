@@ -7,3 +7,5 @@ With supplemental LinkedIn Learning courses, in addition to oconnecting to APIs 
 4. And finally, embedding the response data into my HTML webpage.
 
 And because I love dogs, each time this page is refreshed, there is a new dog-related gif everytime!
+
+![API Gif Image](dapperdogs/dapperdog-gif.png)
